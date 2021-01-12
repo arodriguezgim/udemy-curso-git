@@ -24,3 +24,5 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
 * subitem
 
 ![Batman](https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:fafafa,c_scale,dpr_3.0,f_auto,w_500/5492687_png/batman-swarovski-5492687.png)
+
+[Ir a la imagen](https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:fafafa,c_scale,dpr_3.0,f_auto,w_500/5492687_png/batman-swarovski-5492687.png)
